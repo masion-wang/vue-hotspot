@@ -1,5 +1,5 @@
 {
-  "name": "vue-hotspot",
+  "name": "vue-hotspot3",
   "version": "2.0.2",
   "description": "Hotspot component for Vue.js.",
   "author": "James Wang",
@@ -50,9 +50,9 @@
     "vue-template-compiler": "^2.6.10"
   },
   "bugs": {
-    "url": "https://github.com/cn-wx/vue-hotspot/issues"
+    "url": "https://github.com/masion-wang/vue-hotspot/issues"
   },
-  "homepage": "https://github.com/cn-wx/vue-hotspot#readme",
+  "homepage": "https://github.com/masion-wang/vue-hotspot#readme",
   "keywords": [
     "vue",
     "hotspot",
@@ -61,6 +61,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cn-wx/vue-hotspot.git"
+    "url": "git+https://github.com/masion-wang/vue-hotspot.git"
   }
 }
